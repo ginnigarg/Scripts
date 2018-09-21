@@ -1,0 +1,17 @@
+No command 'abc' found, did you mean:
+ Command 'ab' from package 'apache2-utils' (main)
+ Command 'bc' from package 'bc' (main)
+ Command 'abe' from package 'abe' (universe)
+ Command 'axc' from package 'afnix' (universe)
+ Command 'ajc' from package 'aspectj' (universe)
+ Command 'abx' from package 'abx' (universe)
+ Command 'nbc' from package 'nbc' (universe)
+ Command 'cbc' from package 'coinor-cbc' (universe)
+ Command 'arc' from package 'arcanist' (universe)
+ Command 'arc' from package 'arc' (universe)
+ Command 'aec' from package 'libaec-tools' (universe)
+ Command 'alc' from package 'amule-utils-gui' (universe)
+ Command 'atc' from package 'bsdgames' (universe)
+ Command 'ac' from package 'acct' (main)
+ Command 'asc' from package 'asc' (universe)
+abc: command not found

@@ -1,0 +1,12 @@
+hello
+hello world.... chai peelooo!!!!
+total 16
+-rw-rw-r-- 1 ayush ayush   10 Jul 31 14:42 abc.txt
+drwxrwxr-x 2 ayush ayush 4096 Jul 28 15:12 APC
+drwxrwxr-x 2 ayush ayush 4096 Jul 25 23:36 CodeQuotient
+-rw-rw-r-- 1 ayush ayush    9 Jul 31 14:45 new2.txt
+-rw-rw-r-- 1 ayush ayush    0 Jul 31 14:45 new.txt
+hello
+new kjagjk
+wedbguiwd
+1wejil
